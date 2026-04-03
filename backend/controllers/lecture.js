@@ -1,4 +1,4 @@
-import Lecture from "../models/Lecture.js";
+import Lecture from "../models/lecture.js";
 
 export const createLecture = async (req, res) => {
   try {
