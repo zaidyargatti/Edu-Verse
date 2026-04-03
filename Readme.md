@@ -44,3 +44,11 @@ JWT_SECRET=your_secret_key
 
 Script to add instructor and admin
 node utils/seedUsers.js
+ 
+Backend
+npm install
+npm run dev
+
+Frontend
+npm install 
+npm run dev
